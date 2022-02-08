@@ -29,4 +29,4 @@ works good with jedi
 
 #### nerdtree
 
-i remapped '<F9>' to :NERDTree so that i have a file explorer to use in vim
+i remapped F9 to :NERDTree so that i have a file explorer to use in vim
