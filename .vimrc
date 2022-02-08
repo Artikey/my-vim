@@ -3,6 +3,7 @@ set tabstop=4
 set shiftwidth=4
 set smartindent
 set cindent
+set title
 
 set hlsearch
 set ignorecase
