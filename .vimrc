@@ -16,13 +16,15 @@ set termguicolors
 
 
 syntax on
-colorscheme cyberpunk
+colorscheme forgotten-dark
 
 " line numbers and cursorline number color configs
 set cursorline
 set cursorlineopt=number
-highlight CursorLineNR cterm=NONE term=NONE guifg=Yellow ctermbg=NONE guibg=NONE
-highlight LineNr  guifg=#353535
+highlight CursorLineNR cterm=NONE term=NONE guifg=Red ctermbg=NONE guibg=NONE
+"highlight LineNr  guifg=#000000
+"let g:forgotten_dark_LineNR = 'off'
+"let g:forgotten_dark_CursorLineNr = 'off'
 
 " higlight extra whitespaces and remove them on save
 highlight ExtraWhitespace ctermbg=red guibg=red
