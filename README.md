@@ -3,8 +3,7 @@
 
 ## colorscheme
 
-- the colorscheme i used is called [cyberpunk](https://github.com/thedenisnikulin/vim-cyberpunk)
-    - it supports both vim colorscheme and the lightline one
+- the colorscheme i used is called [forgotten](https://github.com/haystackandroid/forgotten)
 ## Plugins
 
 ### the plugin loader that i use is Pathogen
@@ -23,7 +22,7 @@ auto completer for python mainly
 
 ##### supertab
 
-works good with jedi 
+works good with jedi
 
 #### lightline
 
