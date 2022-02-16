@@ -26,6 +26,10 @@ works good with jedi
 
 #### lightline
 
+#### vim-css-color
+
+get a hilighting when typing color codes like "#ff0000"
+
 #### nerdtree
 
 i remapped F9 to :NERDTree so that i have a file explorer to use in vim
